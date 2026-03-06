@@ -27,3 +27,5 @@ View your app in AI Studio: https://ai.studio/apps/92125296-4d39-4e8c-a777-8b629
 3. main 브랜치에 푸시하면 자동 배포
 
 배포 주소 예시: `https://ssoom3030-lang.github.io/sumshi-prescription-tool/`
+## GitHub Pages deploy trigger
+배포 테스트
